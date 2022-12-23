@@ -3,6 +3,11 @@
 
 **Christina Reeder**: 
 
+### Data Source:
+https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
+
+For this dataset, there are 8523 rows and 12 columns.
+
 ### Business problem:
 
 Here is where you state the business problem you were trying to solve
