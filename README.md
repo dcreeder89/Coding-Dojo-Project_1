@@ -1,57 +1,19 @@
 # Food Sales Predictions
-## Subtitle describing the analysis 
+## Analyzing Food Sales for a Variety of Food and Outlet Types
 
 **Christina Reeder**: 
 
-### Data Source:
+## Data Source:
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
 For this dataset, there are 8523 rows and 12 columns.
 
-### Business problem:
+## Data Dictionary
+![data dictionary.png](https://github.com/dcreeder89/Food_Sales_Predictions/blob/main/data%20dictionary.png)
 
-Here is where you state the business problem you were trying to solve
+## The data was cleaned, and the following were explored:
 
+### Exploratory Data Analysis
+  - Exploratory analysis consisted of histograms and boxplots for interesting columns and groupings to explore the relationships. 
+  - There is also a heatmap that showed a moderate correlation between the Item MRP and Item Outlet Sales.
 
-### Data:
-Data can include source and high-level description (e.g. # obs)
-
-
-## Methods
-- Data preparation steps with explanation and justification for choices
-- 
-
-## Results
-
-### Here are examples of how to embed images from your sub-folder
-
-
-#### Visual 1 Title
-![sample image](data dictionary.png)
-
-> Sentence about visualization.
-
-#### Visual 2 Title
-
-## Model
-
-Describe your final model
-
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
-
-## Recommendations:
-
-More of your own text here
-
-
-## Limitations & Next Steps
-
-More of your own text here
-
-
-### For further information
-
-
-For any additional questions, please contact **email**
