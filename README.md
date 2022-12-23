@@ -1,9 +1,7 @@
-# Food_Sales_Predictions
-
-# Title that recommends an action
+# Food Sales Predictions
 ## Subtitle describing the analysis 
 
-**Author**: 
+**Christina Reeder**: 
 
 ### Business problem:
 
